@@ -7,7 +7,7 @@ The End Of GVT Travel
 ----
 
 ```shell
-vue init gvtfront/admin ${YOUR_PROJECT_NAME}
+vue init zdw04/vue-element-admin ${YOUR_PROJECT_NAME}
 
 cd ${YOUR_PROJECT_NAME}
 
