@@ -4,7 +4,7 @@ module.exports = {
 			"type": "string",
 			"message": "Project name",
 			"required": false,
-			"default": "A GVT Frontend Project"
+			"default": "A Element Frontend Project"
 		},
 		"description": {
 			"type": "string",
@@ -16,7 +16,7 @@ module.exports = {
 			"type": "string",
 			"message": "author",
 			"required": false,
-			"default": "Frontend Developers For GVT"
+			"default": "Frontend Developers For David"
 		}
 	},
 	"skipInterpolation": "src/**/*.vue",
